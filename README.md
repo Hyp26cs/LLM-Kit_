@@ -1,7 +1,7 @@
 
 ### LLM-Kit 
 
-Dataset and source code for the anonymous submission KGRL.
+Dataset and source code for the anonymous submission .
 
 
 ### Requirements
